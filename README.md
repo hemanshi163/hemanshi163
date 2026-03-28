@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Hemanshi 👋
 
-<!--
-**hemanshi163/hemanshi163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Operations Professional transitioning into Data Analytics  
 
-Here are some ideas to get you started:
+I currently work in an operations role at Aon, where I handle data-driven processes and business workflows.  
+I am now building strong skills in Data Analytics through hands-on projects using SQL, Power BI, Tableau, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Bring
+
+- Experience working with real-world business data  
+- Strong understanding of processes and operations  
+- Ability to translate data into actionable insights  
+- Hands-on analytics projects across multiple tools  
+
+---
+
+## 📊 Featured Projects
+
+- 📊 **Power BI Dashboard** – Student Behavior Analysis  
+- 📈 **Tableau Dashboard** – Property Sales Insights  
+- 🧠 **SQL Project** – Ecommerce Business Analysis  
+- 🐍 **Python Project** – Customer Data Analysis  
+
+---
+
+## 🛠 Skills
+
+- **SQL** – Joins, Aggregations, Subqueries  
+- **Power BI** – Dashboarding, DAX basics  
+- **Tableau** – Storytelling, Filters, Parameters  
+- **Python** – Pandas, Data Analysis  
+- **Excel** – VLOOKUP, Pivot Tables, Slicers, Basic Data Analysis
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/hemanshi-pathania/
